@@ -1,0 +1,208 @@
+2021-02-10 22:53:49: SELECT * FROM user WHERE usr_email='anton@verlinden.be' 
+2021-02-10 22:53:51: select * from images
+2021-02-10 22:53:55: select * from eu_btw_codes
+2021-02-10 22:53:59: select * from eu_btw_codes where eub_id=1
+2021-02-10 22:54:05: SHOW FULL COLUMNS FROM eu_btw_codes
+2021-02-10 22:54:07: UPDATE eu_btw_codes SET  eub_land = 'België'  ,  eub_code = 'BE1234567'  WHERE eub_id = 1 
+2021-02-10 22:54:09: select * from eu_btw_codes
+2021-02-10 22:54:14: select * from images
+2021-02-10 23:36:50: select * from eu_btw_codes
+2021-02-10 23:36:54: select * from images
+2021-02-10 23:37:02: select * from user where usr_id=3
+2021-02-10 23:37:07: select * from images
+2021-02-12 00:22:52: SELECT * FROM user WHERE usr_email='anton@verlinden.be' 
+2021-02-12 00:22:54: select * from images
+2021-02-12 00:24:18: select * from images
+2021-02-12 00:25:24: select * from images
+2021-02-12 00:25:28: select * from eu_btw_codes
+2021-02-12 00:25:33: select * from eu_btw_codes where eub_id=1
+2021-02-12 00:25:38: SHOW FULL COLUMNS FROM eu_btw_codes
+2021-02-12 00:27:32: select * from eu_btw_codes where eub_id=1
+2021-02-12 00:27:40: SHOW FULL COLUMNS FROM eu_btw_codes
+2021-02-12 00:27:42: UPDATE eu_btw_codes SET  eub_land = 'België'  ,  eub_code = 'BE12'  WHERE eub_id = 1 
+2021-02-12 00:27:42: select * from eu_btw_codes
+2021-02-12 00:27:49: select * from images
+2021-02-12 00:27:54: select * from images where img_id=2
+2021-02-12 00:27:56: select lan_id, lan_land from land
+2021-02-12 00:28:02: SHOW FULL COLUMNS FROM images
+2021-02-12 00:28:04: UPDATE images SET  img_title = 'De Eiffeltoren'  ,  img_filename = 'paris.jpg'  ,  img_width = '888'  ,  img_height = '777'  ,  img_lan_id = '6'  ,  img_date = '2020-09-14'  WHERE img_id = 2 
+2021-02-12 00:28:04: select * from images
+2021-02-12 00:28:15: select * from images
+2021-02-12 00:28:20: select * from images where img_id=1
+2021-02-12 00:28:22: select lan_id, lan_land from land
+2021-02-12 00:28:25: select * from images
+2021-02-12 00:28:30: select * from images
+2021-02-12 00:53:36: SELECT * FROM user WHERE usr_email='anton@verlinden.be' 
+2021-02-12 00:53:38: select * from images
+2021-03-04 13:05:28: SELECT * FROM user WHERE usr_email='steven@inform.be' 
+2021-03-04 13:05:40: SELECT * FROM user WHERE usr_email='anton@verlinden.be' 
+2021-03-04 13:05:42: select * from images
+2021-03-04 13:13:19: select * from images where img_id=2
+2021-03-04 13:13:21: select lan_id, lan_land from land
+2021-03-04 13:16:15: select * from images
+2021-03-04 13:17:53: select * from images
+2021-03-04 13:18:54: select * from images
+2021-03-04 13:19:06: select * from images where img_id=2
+2021-03-04 13:19:08: select lan_id, lan_land from land
+2021-03-04 13:19:37: SHOW FULL COLUMNS FROM images
+2021-03-04 13:19:39: UPDATE images SET  img_title = 'De Eiffeltoren'  ,  img_filename = 'paris.jpg'  ,  img_width = '888'  ,  img_height = '777'  ,  img_lan_id = '6'  ,  img_date = '2020-09-15'  WHERE img_id = 2 
+2021-03-04 13:19:39: select * from images
+2021-03-04 13:20:00: select * from images where img_id=1
+2021-03-04 13:20:03: select lan_id, lan_land from land
+2021-03-04 13:20:30: select * from images
+2021-03-08 13:18:25: SELECT * FROM user WHERE usr_email='anton@verlinden.be' 
+2021-03-08 13:18:27: select * from images
+2021-03-08 13:18:32: select * from eu_btw_codes
+2021-03-08 13:18:36: select * from eu_btw_codes
+2021-03-08 13:23:23: select * from images
+2021-03-08 13:27:22: select * from images
+2021-03-08 13:27:34: select * from images
+2021-03-08 13:28:10: select * from eu_btw_codes
+2021-03-08 13:29:22: select * from images
+2021-03-08 13:29:27: select * from images
+2021-03-08 13:29:53: select * from images
+2021-03-08 13:30:33: select * from images
+2021-03-08 13:30:44: select * from images
+2021-03-08 13:30:52: select * from images
+2021-03-08 13:35:05: select * from images
+2021-03-08 13:35:10: select * from eu_btw_codes
+2021-03-08 13:35:41: select * from eu_btw_codes
+2021-03-08 13:35:47: select * from eu_btw_codes
+2021-03-08 13:35:52: select * from eu_btw_codes
+2021-03-08 13:36:13: select * from images
+2021-03-08 13:36:17: select * from images
+2021-03-08 14:07:57: select * from eu_btw_codes
+2021-03-08 14:08:01: select * from eu_btw_codes
+2021-03-08 14:08:43: select * from eu_btw_codes
+2021-03-08 14:12:30: select * from images
+2021-03-08 14:12:34: select * from images
+2021-03-08 14:13:06: select * from images
+2021-03-08 14:18:28: select * from images
+2021-03-08 14:19:13: select * from eu_btw_codes
+2021-03-08 14:19:17: select * from eu_btw_codes
+2021-03-08 14:24:32: select * from images
+2021-03-08 14:24:36: select * from images
+2021-03-08 14:54:01: select * from eu_btw_codes
+2021-03-08 14:54:19: select * from eu_btw_codes
+2021-03-08 14:54:24: select * from eu_btw_codes
+2021-03-08 14:56:32: select * from eu_btw_codes
+2021-03-08 14:56:45: select * from eu_btw_codes
+2021-03-08 17:20:24: SELECT * FROM user WHERE usr_email='steven@inform.be' 
+2021-03-08 17:20:35: SELECT * FROM user WHERE usr_email='anton@verlinden.be' 
+2021-03-08 17:20:38: select * from images
+2021-03-09 10:59:29: SELECT * FROM user WHERE usr_email='sofie@gmail.com' 
+2021-03-10 20:20:32: SELECT * FROM user WHERE usr_email='sofie@gmail.com' 
+2021-03-10 20:22:11: SELECT * FROM user WHERE usr_email='sofie@gmail.com' 
+2021-03-10 20:22:11: select * from images
+2021-03-10 20:22:21: select * from images where img_id=1
+2021-03-10 20:22:21: select lan_id, lan_land from land
+2021-03-10 20:22:26: select * from images
+2021-03-10 23:42:28: select * from images
+2021-03-10 23:43:13: select * from images
+2021-03-10 23:43:48: select * from images
+2021-03-10 23:45:00: select * from images
+2021-03-10 23:45:59: select * from images
+2021-03-10 23:49:24: select * from images
+2021-03-10 23:49:46: select * from images
+2021-03-10 23:52:00: select * from images
+2021-03-10 23:58:43: select * from images
+2021-03-11 00:04:04: select * from images
+2021-03-11 00:17:13: select * from images
+2021-03-11 00:17:25: select * from images
+2021-03-11 00:17:36: select * from images
+2021-03-11 08:38:02: SELECT * FROM user WHERE usr_email='sofie@gmail.com' 
+2021-03-11 08:38:02: select * from images
+2021-03-11 08:48:25: select * from images
+2021-03-11 08:48:49: select * from images
+2021-03-11 08:50:16: select * from images
+2021-03-11 08:54:20: select * from images
+2021-03-11 08:56:05: select * from images
+2021-03-11 09:02:26: select * from images
+2021-03-11 09:05:46: select * from images
+2021-03-11 09:05:48: select * from images
+2021-03-11 09:06:15: select * from images
+2021-03-11 09:07:53: select * from images
+2021-03-11 09:08:04: select * from images
+2021-03-11 09:08:14: select * from images
+2021-03-11 09:09:55: select * from images
+2021-03-11 09:11:00: select * from images
+2021-03-11 09:11:22: select * from images
+2021-03-11 09:11:24: select * from images
+2021-03-11 09:11:55: select * from images
+2021-03-11 09:15:30: select * from images
+2021-03-11 09:15:57: select * from images
+2021-03-11 09:29:41: select * from images
+2021-03-11 09:32:43: select * from images
+2021-03-11 09:33:19: select * from images
+2021-03-11 09:35:42: select * from images
+2021-03-11 09:35:54: select * from images
+2021-03-11 09:38:10: select * from images
+2021-03-11 09:38:23: select * from images
+2021-03-11 09:38:47: select * from images
+2021-03-11 09:38:57: select * from images
+2021-03-11 10:02:01: select * from images
+2021-03-11 10:12:52: select * from images
+2021-03-11 10:15:30: select * from images
+2021-03-11 10:33:45: select * from images
+2021-03-11 10:33:57: select * from images
+2021-03-11 10:59:51: select * from images
+2021-03-11 11:03:58: select * from images
+2021-03-11 11:04:00: select * from images
+2021-03-11 11:07:06: select * from images
+2021-03-15 21:12:20: SELECT * FROM user WHERE usr_email='sofie@gmail.com' 
+2021-03-15 21:12:21: select * from images
+2021-03-15 21:12:49: select * from images
+2021-03-15 21:15:07: select * from images
+2021-03-15 21:15:08: select * from images
+2021-03-15 21:15:48: select * from images
+2021-03-15 21:16:58: select * from images
+2021-03-15 21:17:00: select * from images
+2021-03-15 21:17:18: select * from images
+2021-03-15 21:17:35: select * from images
+2021-03-15 21:22:46: select * from images
+2021-03-15 21:23:24: select * from images
+2021-03-15 21:23:54: select * from images
+2021-03-15 21:24:28: select * from images
+2021-03-15 21:24:45: select * from images
+2021-03-15 21:25:02: select * from images
+2021-03-15 21:25:24: select * from images
+2021-03-15 21:25:32: select * from images
+2021-03-15 21:25:51: select * from images
+2021-03-15 21:26:33: select * from images
+2021-03-15 21:27:04: select * from images
+2021-03-15 21:27:18: select * from images
+2021-03-15 21:27:35: select * from images
+2021-03-15 21:27:43: select * from images
+2021-03-15 21:27:50: select * from images
+2021-03-15 21:27:57: select * from images
+2021-03-15 21:28:04: select * from images
+2021-03-15 21:28:17: select * from images
+2021-03-15 21:28:42: select * from images
+2021-03-15 21:28:51: select * from images
+2021-03-15 21:31:11: select * from images
+2021-03-15 21:31:13: select * from images
+2021-03-15 21:31:44: select * from images
+2021-03-15 21:34:55: select * from images
+2021-03-15 21:59:36: select * from images
+2021-03-15 21:59:54: select * from images
+2021-03-15 21:59:56: select * from eu_btw_codes
+2021-03-15 22:00:02: select * from images
+2021-03-15 22:00:07: select * from images
+2021-03-15 22:00:12: select * from eu_btw_codes
+2021-03-15 22:00:14: select * from images
+2021-03-15 22:00:27: SELECT * FROM user WHERE usr_email='sofie@gmail.com' 
+2021-03-15 22:00:28: select * from images
+2021-03-15 23:31:28: select * from images
+2021-03-15 23:31:32: select * from eu_btw_codes
+2021-03-15 23:31:36: select * from images
+2021-03-15 23:41:56: select * from images
+2021-03-16 00:24:38: SELECT * FROM user WHERE usr_email='sofie@gmail.com' 
+2021-03-16 00:24:38: select * from images
+2021-03-16 22:46:59: SELECT * FROM user WHERE usr_email='sofie@gmail.com' 
+2021-03-16 22:47:00: select * from images
+2021-03-17 14:58:51: SELECT * FROM user WHERE usr_email='sofie@gmail.com' 
+2021-03-17 14:58:51: select * from images
+2021-03-17 15:00:05: select * from images
+2021-03-17 15:00:42: select * from images
+2021-03-17 15:21:28: select * from images
+2021-03-17 15:28:57: select * from eu_btw_codes

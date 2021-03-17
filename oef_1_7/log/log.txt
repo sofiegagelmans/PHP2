@@ -1,0 +1,99 @@
+2021-02-10 22:53:49: SELECT * FROM user WHERE usr_email='anton@verlinden.be' 
+2021-02-10 22:53:51: select * from images
+2021-02-10 22:53:55: select * from eu_btw_codes
+2021-02-10 22:53:59: select * from eu_btw_codes where eub_id=1
+2021-02-10 22:54:05: SHOW FULL COLUMNS FROM eu_btw_codes
+2021-02-10 22:54:07: UPDATE eu_btw_codes SET  eub_land = 'België'  ,  eub_code = 'BE1234567'  WHERE eub_id = 1 
+2021-02-10 22:54:09: select * from eu_btw_codes
+2021-02-10 22:54:14: select * from images
+2021-02-10 23:36:50: select * from eu_btw_codes
+2021-02-10 23:36:54: select * from images
+2021-02-10 23:37:02: select * from user where usr_id=3
+2021-02-10 23:37:07: select * from images
+2021-02-12 00:22:52: SELECT * FROM user WHERE usr_email='anton@verlinden.be' 
+2021-02-12 00:22:54: select * from images
+2021-02-12 00:24:18: select * from images
+2021-02-12 00:25:24: select * from images
+2021-02-12 00:25:28: select * from eu_btw_codes
+2021-02-12 00:25:33: select * from eu_btw_codes where eub_id=1
+2021-02-12 00:25:38: SHOW FULL COLUMNS FROM eu_btw_codes
+2021-02-12 00:27:32: select * from eu_btw_codes where eub_id=1
+2021-02-12 00:27:40: SHOW FULL COLUMNS FROM eu_btw_codes
+2021-02-12 00:27:42: UPDATE eu_btw_codes SET  eub_land = 'België'  ,  eub_code = 'BE12'  WHERE eub_id = 1 
+2021-02-12 00:27:42: select * from eu_btw_codes
+2021-02-12 00:27:49: select * from images
+2021-02-12 00:27:54: select * from images where img_id=2
+2021-02-12 00:27:56: select lan_id, lan_land from land
+2021-02-12 00:28:02: SHOW FULL COLUMNS FROM images
+2021-02-12 00:28:04: UPDATE images SET  img_title = 'De Eiffeltoren'  ,  img_filename = 'paris.jpg'  ,  img_width = '888'  ,  img_height = '777'  ,  img_lan_id = '6'  ,  img_date = '2020-09-14'  WHERE img_id = 2 
+2021-02-12 00:28:04: select * from images
+2021-02-12 00:28:15: select * from images
+2021-02-12 00:28:20: select * from images where img_id=1
+2021-02-12 00:28:22: select lan_id, lan_land from land
+2021-02-12 00:28:25: select * from images
+2021-02-12 00:28:30: select * from images
+2021-02-12 00:53:36: SELECT * FROM user WHERE usr_email='anton@verlinden.be' 
+2021-02-12 00:53:38: select * from images
+2021-03-04 13:05:28: SELECT * FROM user WHERE usr_email='steven@inform.be' 
+2021-03-04 13:05:40: SELECT * FROM user WHERE usr_email='anton@verlinden.be' 
+2021-03-04 13:05:42: select * from images
+2021-03-04 13:13:19: select * from images where img_id=2
+2021-03-04 13:13:21: select lan_id, lan_land from land
+2021-03-04 13:16:15: select * from images
+2021-03-04 13:17:53: select * from images
+2021-03-04 13:18:54: select * from images
+2021-03-04 13:19:06: select * from images where img_id=2
+2021-03-04 13:19:08: select lan_id, lan_land from land
+2021-03-04 13:19:37: SHOW FULL COLUMNS FROM images
+2021-03-04 13:19:39: UPDATE images SET  img_title = 'De Eiffeltoren'  ,  img_filename = 'paris.jpg'  ,  img_width = '888'  ,  img_height = '777'  ,  img_lan_id = '6'  ,  img_date = '2020-09-15'  WHERE img_id = 2 
+2021-03-04 13:19:39: select * from images
+2021-03-04 13:20:00: select * from images where img_id=1
+2021-03-04 13:20:03: select lan_id, lan_land from land
+2021-03-04 13:20:30: select * from images
+2021-03-08 13:18:25: SELECT * FROM user WHERE usr_email='anton@verlinden.be' 
+2021-03-08 13:18:27: select * from images
+2021-03-08 13:18:32: select * from eu_btw_codes
+2021-03-08 13:18:36: select * from eu_btw_codes
+2021-03-08 13:23:23: select * from images
+2021-03-08 13:27:22: select * from images
+2021-03-08 13:27:34: select * from images
+2021-03-08 13:28:10: select * from eu_btw_codes
+2021-03-08 13:29:22: select * from images
+2021-03-08 13:29:27: select * from images
+2021-03-08 13:29:53: select * from images
+2021-03-08 13:30:33: select * from images
+2021-03-08 13:30:44: select * from images
+2021-03-08 13:30:52: select * from images
+2021-03-08 13:35:05: select * from images
+2021-03-08 13:35:10: select * from eu_btw_codes
+2021-03-08 13:35:41: select * from eu_btw_codes
+2021-03-08 13:35:47: select * from eu_btw_codes
+2021-03-08 13:35:52: select * from eu_btw_codes
+2021-03-08 13:36:13: select * from images
+2021-03-08 13:36:17: select * from images
+2021-03-08 14:07:57: select * from eu_btw_codes
+2021-03-08 14:08:01: select * from eu_btw_codes
+2021-03-08 14:08:43: select * from eu_btw_codes
+2021-03-08 14:12:30: select * from images
+2021-03-08 14:12:34: select * from images
+2021-03-08 14:13:06: select * from images
+2021-03-08 14:18:28: select * from images
+2021-03-08 14:19:13: select * from eu_btw_codes
+2021-03-08 14:19:17: select * from eu_btw_codes
+2021-03-08 14:24:32: select * from images
+2021-03-08 14:24:36: select * from images
+2021-03-08 14:54:01: select * from eu_btw_codes
+2021-03-08 14:54:19: select * from eu_btw_codes
+2021-03-08 14:54:24: select * from eu_btw_codes
+2021-03-08 14:56:32: select * from eu_btw_codes
+2021-03-08 14:56:45: select * from eu_btw_codes
+2021-03-08 17:20:24: SELECT * FROM user WHERE usr_email='steven@inform.be' 
+2021-03-08 17:20:35: SELECT * FROM user WHERE usr_email='anton@verlinden.be' 
+2021-03-08 17:20:38: select * from images
+2021-03-09 10:59:29: SELECT * FROM user WHERE usr_email='sofie@gmail.com' 
+2021-03-10 20:20:32: SELECT * FROM user WHERE usr_email='sofie@gmail.com' 
+2021-03-10 20:22:11: SELECT * FROM user WHERE usr_email='sofie@gmail.com' 
+2021-03-10 20:22:11: select * from images
+2021-03-10 20:22:21: select * from images where img_id=1
+2021-03-10 20:22:21: select lan_id, lan_land from land
+2021-03-10 20:22:26: select * from images
