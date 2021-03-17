@@ -17,6 +17,14 @@ header("Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers
 //Set response content type and character set
 header("Content-Type: application/json; charset=UTF-8");
 
+//Basic authentication controle
+if ($_SERVER['PHP_AUTH_USER'] !== "user123" OR $_SERVER['PHP_AUTH_PW'] !== "password123")
+{
+    header('WWW-Authenticate: Basic realm="Provide your username and password for the API"');
+    header('HTTP/1.0 401 Unauthorized');
+    exit;
+}
+
 $method = $_SERVER['REQUEST_METHOD'];
 $request_uri = $_SERVER['REQUEST_URI'];
 
